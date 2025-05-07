@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jcfa2havz-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jcfa2havz-go
